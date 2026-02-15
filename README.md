@@ -12,14 +12,19 @@ This project demonstrates foundational skills using Windows software tools. Prof
   <summary> Using Event Viewer and Services MMC snap-ins to troubleshoot printer failure</summary>
 
 The issue:
+
  ![1](images/logon.failure.png)
  _______________________________
+
+Troubleshooting Steps:
 
  ![2](images/failure.identified.png)
  _________________________________
 
  ![3](images/root.cause.png)
  ______________________________
+
+Resolution:
 
  ![4](images/resolution.png)
  
