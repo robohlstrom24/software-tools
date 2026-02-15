@@ -29,5 +29,7 @@ Troubleshooting Steps:
 Resolution:
 
  ![4](images/resolution.png)
+
+ See ITSM-style troubleshooting ticket T-0009 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
  
 </details>
