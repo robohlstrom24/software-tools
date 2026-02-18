@@ -11,7 +11,7 @@ This project demonstrates foundational skills using Windows software tools. Prof
 ## Tier 2 Job Duties
 
 <details>
-  <summary> Using Event Viewer and Services MMC snap-ins to troubleshoot printer failure</summary>
+  <summary> Troubleshooting printer failure using Event Viewer and Services MMC snap-ins </summary>
 
 The issue:
 
