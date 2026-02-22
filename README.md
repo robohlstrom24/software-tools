@@ -2,7 +2,7 @@
 
 ## Operational Relevance
 
-This project demonstrates foundational skills using Windows software tools. Proficiency with Tier-1 and Tier-2 IT Support tasks is demonstrated with screenshots ( click the > dropdowns to view ). Troubleshooting activities are documented in a separate repository modeled after ITSM-style ticket-based support workflows. 
+This project demonstrates foundational skills using Windows software tools. Proficiency with Tier-1 and Tier-2 IT Support tasks is demonstrated with screenshots ( click the > dropdowns to view ). Troubleshooting activities are supplemented with ITSM-style tickets which are documented in a companion repository.
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
