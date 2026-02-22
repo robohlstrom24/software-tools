@@ -6,9 +6,9 @@ This project demonstrates foundational skills using Windows software tools. Prof
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
-## Tier 1 Job Duties
+## Tier-1 Job Duties
 
-## Tier 2 Job Duties
+## Tier-2 Job Duties
 
 <details>
   <summary> Troubleshooting printer failure using Event Viewer and Services MMC snap-ins </summary>
