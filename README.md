@@ -67,12 +67,18 @@ Resolution:
 
   ![1](images/inaccessible-service/hook(captioned).png)
   ______________________________________________________
-  ![2](images/inaccessible-service/(1)none-listening)
+  ![2](images/inaccessible-service/(1)none-listening.png)
   _____________________________________________________
   ![3](images/inaccessible-service/(2)service-not-running.png)
   ___________________________________________________
   ![4](images/inaccessible-service/(3)service-restarted.png)
   ___________________________________________________________
   ![5](images/inaccessible-service/(4)port-listening.png)
-  
+
+**Lessons Learned:**
+- Verifying whether a service port is listening is a quick way to determine if an application is accepting connections
+- Network tools like netstat can help distinguish between connectivity issues and application/service failures
+- Understanding which services support critical applications helps speed up root cause identification
+
+   See ITSM-style troubleshooting ticket T-0014 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
 </details>
