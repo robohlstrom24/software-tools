@@ -57,3 +57,9 @@ Resolution:
  See ITSM-style troubleshooting ticket T-0009 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
  
 </details>
+
+## Tier 2 Job Duties
+
+<details>
+  <summary>Inaccessible Web Application (netstat, Services Mangager)</summary>
+</details>
