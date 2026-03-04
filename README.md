@@ -62,4 +62,17 @@ Resolution:
 
 <details>
   <summary>Inaccessible Web Application (netstat, Services Mangager)</summary>
+
+  **Scenario: An internal web application becomes unavailable after the web service hosting the site stops running on the server**
+
+  ![1](images/inaccessible-service/hook(captioned).png)
+  ______________________________________________________
+  ![2](images/inaccessible-service/(1)none-listening)
+  _____________________________________________________
+  ![3](images/inaccessible-service/(2)service-not-running.png)
+  ___________________________________________________
+  ![4](images/inaccessible-service/(3)service-restarted.png)
+  ___________________________________________________________
+  ![5](images/inaccessible-service/(4)port-listening.png)
+  
 </details>
