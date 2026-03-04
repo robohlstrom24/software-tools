@@ -8,10 +8,35 @@ This project demonstrates foundational skills using Windows software tools. Prof
 
 ## Tier-1 Job Duties
 
+<details>
+  <summary> Troubleshooting High CPU Usage (Task Manager / Performance Monitor / Task Scheduler)</summary>
+
+  **Scenario: A background automation script becomes stuck in a continuous loop while parsing log data, causing high CPU utilization.** 
+
+  ![1](images/highCPU/(1)hook1.png)
+  ___________________________________
+  ![2](images/highCPU/(2)system-saturated.png)
+  _____________________________________________
+  ![3](images/highCPU/(3)event-viewer2.png)
+  ______________________________________________
+  ![4](images/highCPU/task-scheduler.png)
+  ____________________________________________
+  ![5](images/highCPU/(5)PowerShell-stop.png)
+  _____________________________________________
+  ![6](images/highCPU/(6)baseline-restored.png)
+
+  **Lessons Leanred:**
+  
+- High CPU investigations should begin by identifying the top resource-consuming process before taking action
+- Performance Monitor helps confirm whether resource spikes are sustained system issues versus temporary application activity
+- Investigating automation sources is critical before terminating processes to avoid interrupting legitimate workloads
+
+</details>
+
 ## Tier-2 Job Duties
 
 <details>
-  <summary> Troubleshooting printer failure using Event Viewer and Services MMC snap-ins </summary>
+  <summary> Troubleshooting printer failure (Event Viewer / Services) </summary>
 
 The issue:
 
