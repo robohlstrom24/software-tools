@@ -61,7 +61,7 @@ Resolution:
 ## Tier 2 Job Duties
 
 <details>
-  <summary>Inaccessible Web Application (netstat, Services Mangager)</summary>
+  <summary>Troubleshooting an Inaccessible Web Application (netstat, Services Mangager)</summary>
 
   **Scenario: An internal web application becomes unavailable after the web service hosting the site stops running on the server**
 
