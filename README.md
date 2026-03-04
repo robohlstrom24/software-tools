@@ -31,9 +31,8 @@ This project demonstrates foundational skills using Windows software tools. Prof
 - Performance Monitor helps confirm whether resource spikes are sustained system issues versus temporary application activity
 - Investigating automation sources is critical before terminating processes to avoid interrupting legitimate workloads
 
+ See ITSM-style troubleshooting ticket T-0013 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
 </details>
-
-## Tier-2 Job Duties
 
 <details>
   <summary> Troubleshooting printer failure (Event Viewer / Services) </summary>
