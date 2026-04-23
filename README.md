@@ -67,6 +67,8 @@ Resolution:
 
   ![1](images/inaccessible-service/hook(captioned).png)
   ______________________________________________________
+  ![2.0](images/inaccessible-service/insert-2.png)
+  
   ![2](images/inaccessible-service/(1)none-listening.png)
   _____________________________________________________
   ![3](images/inaccessible-service/(2)service-not-running.png)
