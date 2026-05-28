@@ -6,6 +6,34 @@ This project demonstrates foundational skills using Windows software tools. Prof
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
+## Tier 2 Job Duties
+
+<details>
+  <summary>Troubleshooting an Unavailable Web Application (Network Port Diagnostics, Service Dependency Triage)</summary>
+
+  **Scenario: An internal web application becomes unavailable after the web service hosting the site stops running on the server**
+
+  ![1](images/inaccessible-service/hook(captioned).png)
+  ______________________________________________________
+  ![2.0](images/inaccessible-service/insert-2.png)
+  _____________________________________________________
+  ![2](images/inaccessible-service/(1)none-listening.png)
+  _____________________________________________________
+  ![3](images/inaccessible-service/(2)service-not-running.png)
+  ___________________________________________________
+  ![4](images/inaccessible-service/(3)service-restarted.png)
+  ___________________________________________________________
+  ![5](images/inaccessible-service/(4)port-listening.png)
+
+**Lessons Learned:**
+- Verifying whether a service port is listening is a quick way to determine if an application is accepting connections
+- Network tools like netstat can help distinguish between connectivity issues and application/service failures
+- Understanding which services support critical applications helps speed up root cause identification
+
+   See ITSM-style troubleshooting ticket T-0014 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
+  
+</details>
+
 ## Tier-1 Job Duties
 
 <details>
@@ -58,29 +86,4 @@ Resolution:
  
 </details>
 
-## Tier 2 Job Duties
 
-<details>
-  <summary>Troubleshooting an Unavailable Web Application (netstat, Services Manager)</summary>
-
-  **Scenario: An internal web application becomes unavailable after the web service hosting the site stops running on the server**
-
-  ![1](images/inaccessible-service/hook(captioned).png)
-  ______________________________________________________
-  ![2.0](images/inaccessible-service/insert-2.png)
-  _____________________________________________________
-  ![2](images/inaccessible-service/(1)none-listening.png)
-  _____________________________________________________
-  ![3](images/inaccessible-service/(2)service-not-running.png)
-  ___________________________________________________
-  ![4](images/inaccessible-service/(3)service-restarted.png)
-  ___________________________________________________________
-  ![5](images/inaccessible-service/(4)port-listening.png)
-
-**Lessons Learned:**
-- Verifying whether a service port is listening is a quick way to determine if an application is accepting connections
-- Network tools like netstat can help distinguish between connectivity issues and application/service failures
-- Understanding which services support critical applications helps speed up root cause identification
-
-   See ITSM-style troubleshooting ticket T-0014 in [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal)
-</details>
