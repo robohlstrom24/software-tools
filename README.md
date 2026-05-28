@@ -78,7 +78,7 @@ Troubleshooting Steps:
  ![3](images/root.cause.png)
  ______________________________
 
-Resolution:
+**Resolution:**
 
  ![4](images/resolution.png)
 
